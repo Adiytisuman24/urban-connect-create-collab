@@ -76,16 +76,6 @@ Brand's campaign creation interface.
 
 Sample influencer profile displaying metrics and collaborations.
 
-📈 Roadmap
-Q4 2025: Implement backend services with Node.js and Firebase.
 
-Q1 2026: Introduce mobile application support for iOS and Android.
-
-Q2 2026: Expand to international markets with multi-language support.
-
-Q3 2026: Launch advanced analytics tools for performance tracking.
-
-💬 Feedback
-Your feedback is invaluable. Please open an issue or submit a pull request to share your thoughts and suggestions.
 
 Urban Connect is committed to fostering genuine collaborations in the digital space. Let's create and collaborate!
