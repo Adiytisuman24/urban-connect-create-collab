@@ -31,14 +31,14 @@ Urban Connect is a dynamic platform designed to bridge the gap between influence
    cd urban-connect-create-collab
 Install dependencies:
 
-bash
-Copy code
+
 npm install
+
 Start the development server:
 
-bash
-Copy code
+
 npm run dev
+
 Open your browser and navigate to http://localhost:3000 to view the application.
 
 🤝 Contributing
@@ -58,14 +58,15 @@ Open a pull request with a detailed description of your changes.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 📞 Contact
-For inquiries or support, please reach out to adiytisuman24@gmail.com.
+For inquiries or support, please reach out to adiytisuman1@gmail.com.
 
-🔗 Links
+🔗 Links:
+
 GitHub Repository: https://github.com/Adiytisuman24/urban-connect-create-collab
 
 Live Demo: https://urban-connect-create-collab.vercel.app
 
-📸 Screenshots
+
 
 Dashboard view showcasing influencer and brand interactions.
 
